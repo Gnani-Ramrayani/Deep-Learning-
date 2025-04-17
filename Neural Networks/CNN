@@ -1,1 +1,2 @@
-#Convolutional Neural Network is a feed forward neural network that learns through kernel optimization. They are primarily used in Computer Vision tasks and allows us to build translational invariance into them. Kernels are matrices that perform convolution operations, the kernels are slid across the input data to extract features which are then fed into the next layer.
+#Convolutional Neural Network is a feed forward neural network that learns through kernel optimization. They are primarily used in Computer Vision tasks and allows us to build translational invariance into them.
+Kernels are matrices that perform convolution operations, the kernels are slid across the input data to extract features which are then fed into the next layer.
