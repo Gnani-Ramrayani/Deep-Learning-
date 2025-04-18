@@ -1,6 +1,6 @@
-Normalization techniques are used in processing a dataset to 
+Normalization techniques are used in processing a dataset to ensure all features contribute equally to a datapoint.
 
-Batch Normalization allows faster learning rate. 
+Batch Normalization was proposed to reduce the covariant in the distribution of the data which allows faster learning rate and convergence when training a neural network.
 
 
 
