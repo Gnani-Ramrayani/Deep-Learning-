@@ -5,3 +5,10 @@ Kernels are matrices that perform convolution operations, the kernels are slid a
 I will expand on the classic convolutional neural network LeNet in here and provide a breakdown of the architecture. And the implementation to it will be
 provided in jupyter notebook file.
 
+Architecture of LeNet5:
+
+The CNN comprised of 7 layers not including the input layer. And the input is normalized such that the mean is zero and the variance is 1 (This is usually done to 
+accelerate learning)
+
+
+
