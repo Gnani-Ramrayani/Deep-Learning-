@@ -2,7 +2,9 @@
 to build translational invariance into them.
 Kernels are matrices that perform convolution operations, the kernels are slid across the input data to extract features which are then fed into the next layer.
 
-I will expand on the classic convolutional neural network LeNet in here to explain the architecture and the breakdown of a CNN. And the implementation to it will be
+I will expand on the classic convolutional neural network LeNet in here and provide a breakdown of the architecture. And the implementation to it will be
 provided in jupyter notebook file.
+
+
 
 
